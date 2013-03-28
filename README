@@ -1,0 +1,10 @@
+﻿PIC16F877A used to control CECL08D MP3 Player and Cassette player GRUNDIG WKC 1704 RDS INFOMAT with Blaupunkt RC10 remote.
+After writing the above that I really think I have created a monster! :)
+
+To compile and use one needs software:
+- MPLABX IDE from Microchip
+- HI-TECH PICC (v9.83 or above) Compiler from Microchip 
+- AN1310 High Speed RS232 bootlader burned in to the chip
+To compile and use one needs hardware:
+- Michrochip PICKit3 to burn the AN1310 bootloader from Microchip
+After that you can upload the HEX file to the chip without the need of programmer.

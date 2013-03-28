@@ -1,0 +1,13 @@
+_configure_POR: CODE, 1383 0 9
+_putch: CODE, 1371 0 12
+_main: CODE, 716 0 114
+_setup_timer0: CODE, 1401 0 2
+_setup_timer1: CODE, 1392 0 9
+_setup_timer2: CODE, 1315 0 20
+_pushCommand: CODE, 830 0 84
+_isr: CODE, 535 0 181
+_configure_communication_ports: CODE, 1354 0 17
+_printf: CODE, 1242 0 37
+_isInside: CODE, 1196 0 46
+_handlePulse: CODE, 21 0 514
+Total: 1045
